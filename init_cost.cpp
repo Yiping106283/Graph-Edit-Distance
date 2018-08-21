@@ -1,3 +1,6 @@
+/*
+@author: Mingjia Huo
+*/
 #include "simulate.h"
 
 using namespace std;

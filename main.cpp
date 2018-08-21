@@ -1,3 +1,6 @@
+/*
+@author: Mingjia Huo
+*/
 #include "simulate.h"
 
 #define BIAS -0.5
